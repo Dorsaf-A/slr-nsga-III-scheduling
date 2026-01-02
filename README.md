@@ -5,7 +5,6 @@ This repository contains the data, analysis materials, and documentation for the
 **"NSGA-III for Multi-Objective Scheduling: A Systematic Review with Focus on Reinforcement Learning Integration"**
 
 *Authors: Dorsaf ARIBI, Hind BRIL EL-HAOUZI and Olfa BELKAHLA DRISS*    
-*Year: 2025*
 
 ## 📋 Overview
 
